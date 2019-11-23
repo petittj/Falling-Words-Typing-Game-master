@@ -1,0 +1,8 @@
+Player: 
+ Score: 0 HighScore0 Number of words: 0 Missed words: 0
+Player: asd
+ Score: 3 HighScore3 Number of words: 8 Missed words: 5
+Player: asd
+ Score: 3 HighScore3 Number of words: 8 Missed words: 5
+Player: asdf
+ Score: 2 HighScore2 Number of words: 7 Missed words: 5
